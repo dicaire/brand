@@ -1,13 +1,24 @@
-#F5222D Red
-#Fa541C Volcano
-#Fa8C16 Orange
-#Faad14 Gold
-#Fadb14 Yellow
-#A0D911 Lime
-#52C41A Green
-#13C2C2 Cyan
 #1677Ff Blue
-#2F54Eb Geekblue
+#13C2C2 Cyan
+#Faad14 Gold
+#52C41A Green
+#8c8c8c Grey
+#Fa8C16 Orange
+#Eb2F96 Pink
 #722Ed1 Purple
-#Eb2F96 Magenta
-#666666 Grey
+#f5222d Red
+#Fadb14 Yellow
+#F5F7FA Almost White
+#Ffffff White
+#000000 Black
+#Fafafa Gray-1
+#F5F5F5 Gray-2
+#F0F0F0 Gray-3
+#D9D9D9 Gray-4
+#Bfbfbf Gray-5
+#595959 Gray-7
+#434343 Gray-8
+#262626 Gray-9
+#141414 Gray-10
+#262626 Text Paper
+#737373 Text Digital
