@@ -1,0 +1,58 @@
+color:
+  brand:
+    primary:
+      lighter:
+        value: "{color.blue.2.value}"
+      light:
+        value: "{color.blue.3.value}"
+      base:
+        value: "{color.blue.5.value}"
+      dark:
+        value: "{color.blue.7.value}"
+      darker:
+        value: "{color.blue.9.value}"
+    secondary:
+      lighter:
+        value: "{color.red.2.value}"
+      light:
+        value: "{color.red.3.value}"
+      base:
+        value: "{color.red.5.value}"
+      dark:
+        value: "{color.red.7.value}"
+      darker:
+        value: "{color.red.9.value}"
+
+#
+#
+# color:
+#   brand:
+#     primary:
+#       base:
+#         value: "{color.blue.6.value}"
+#       disabled:
+#         value: "{color.blue.2.value}"
+#       active:
+#         value: "{color.blue.8.value}"
+#     secondary:
+#       base:
+#         value: "{color.red.6.value}"
+#       disabled:
+#         value: "{color.red.2.value}"
+#       active:
+#         value: "{color.red.8.value}"
+#     primary-dark:
+#       base:
+#         value: "{color.blue.2.value}"
+#       disabled:
+#         value: "{color.blue.6.value}"
+#       active:
+#         value: "{color.blue.8.value}"
+#     secondary-dark:
+#       base:
+#         value: "{color.red.2.value}"
+#       disabled:
+#         value: "{color.red.6.value}"
+#       active:
+#         value: "{color.red.8.value}"
+#

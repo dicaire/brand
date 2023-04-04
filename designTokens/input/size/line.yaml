@@ -1,0 +1,30 @@
+size:
+  line:
+    height:
+      xxxl:
+        value: '1.5'
+        group: lineHeight
+      xxl:
+        value: '1.4285'
+        group: lineHeight
+      xl:
+        value: '1.33'
+        group: lineHeight
+      lg:
+        value: '1.27'
+        group: lineHeight
+      md:
+        value: '1.25'
+        group: lineHeight
+      sm:
+        value: '1.2'
+        group: lineHeight
+      xs:
+        value: '1.166'
+        group: lineHeight
+      xxs:
+        value: '1.14'
+        group: lineHeight
+      xxxs:
+        value: '1.125'
+        group: lineHeight

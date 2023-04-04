@@ -1,0 +1,48 @@
+color:
+  font:
+    base:
+      value: "{color.grey.9.value}"
+    secondary:
+      value: "{color.grey.8.value}"
+    tertiary:
+      value: "{color.grey.6.value}"
+    quaternary:
+      value: "{color.grey.4.value}"
+    link:
+      value: "{color.brand.primary.base.value}"
+    active:
+      value: "{color.brand.secondary.base.value}"
+    error:
+      value: "{color.red.6.value}"
+    warning:
+      value: "{color.orange.8.value}"
+    success:
+      value: "{color.green.6.value}"
+    disabled:
+      value: "{color.font.secondary.value}"
+    inverse:
+      base:
+        value: "{color.white.value}"
+      secondary:
+        value: "{color.grey.1.value}"
+      tertiary:
+        value: "{color.grey.2.value}"
+      quaternary:
+        value: "{color.grey.4.value}"
+      link:
+        value: "{color.brand.primary.light.value}"
+      active:
+        value: "{color.brand.secondary.light.value}"
+      error:
+        value: "{color.red.4.value}"
+      warning:
+        value: "{color.orange.4.value}"
+      success:
+        value: "{color.green.4.value}"
+      disabled:
+        value: "{color.font.inverse.secondary.value}"
+    button:
+      primary:
+        value: "{color.font.inverse.base.value}"
+      secondary:
+        value: "{color.font.link.value}"

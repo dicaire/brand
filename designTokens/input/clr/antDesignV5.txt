@@ -1,0 +1,169 @@
+red: '#F5222D',
+  volcano: '#FA541C',
+  orange: '#FA8C16',
+  gold: '#FAAD14',
+  yellow: '#FADB14',
+  lime: '#A0D911',
+  green: '#52C41A',
+  cyan: '#13C2C2',
+  blue: '#1677FF',
+  GeekBlue: '#2F54EB',
+  purple: '#722ED1',
+  Pink: '#EB2F96',
+  grey: '#666666'
+## Dust Red Palette
+red-1 #fff1f0
+red-2 #ffccc7
+red-3 #ffa39e
+red-4 #{f7875
+red-5 #ff4d4f
+red-6 #5222d
+red-7 #cf1322
+red-8 #a8071a
+red-9 #820014
+red-10 #5c0011
+
+Volcano
+volcano-1 #fff2e8
+volcano-2 #ffd8bf
+volcano-3 #ffbb96
+volcano-4 #f9c6e
+volcano-5 #ff7a45
+volcano-6 #fa541c
+volcano-7 #d4380d
+volcano-8 #ad2102
+volcano-9 #871400
+volcano-10 #610600
+
+Sunset Orange
+orange-1 #fff7e6
+orange-2 #ffe7ba
+orange-3 #ffd591
+orange-4 #ffc069
+orange-5 #ffa940
+orange-6 #а8c16
+orange-7 #d46b08
+orange-8 #ad4e00
+orange-9 #873800
+orange-10 #612500
+
+Calendula Gold
+gold-1 #iffbe6
+gold-2 #fff1b8
+gold-3 #ife58f
+gold-4 #ifd666
+gold-5 #ffc53d
+gold-6 #Taad14
+gold-7 #48806
+gold-8 #ad6800
+gold-9 #874d00
+gold-10 #613400
+
+Sunrise Yellow
+yellow-1 #feffe6
+yellow-2 #ffffb8
+yellow-3 #fffb8f
+yellow-4 #{£566
+yellow-5 #ffec3d
+yellow-6 #fadb14
+yellow-7 #46106
+yellow-8 #ad8b00
+yellow-9 #876800
+yellow-10 #614700
+
+Lime
+lime-1 #fcffe6
+lime-2 #f4ffb8
+lime-3 #eaff8f
+lime-4 #d3f261
+lime-5 #bae637
+lime-6 #a0d911
+lime-7 #7cb305
+lime-8 #5b8c00
+lime-9 #3£6600
+lime-10 #254000
+
+Polar green
+green-1 #f6ffed
+green-2 #d9f7be
+green-3 #b7eb8f
+green-4 #95de64
+green-5 #73d13d
+green-6 #52c41a
+green-7 #3890d
+green-8 #237804
+green-9 #135200
+green-10 #092b00
+
+Cyan
+cyan-1 #e6fffb
+cyan-2 #b5f5ec
+cyan-3 #87e8de
+cyan-4 #5cdbd3
+cyan-5 #36cfc9
+cyan-6 #13c2c2
+cyan-7 #08979c
+can-8 #006d75
+cyan-9 #004741
+cyan-10 #e6fffb
+
+Daybreak Blue
+DaybreakBlue-1 #e6f4ff
+DaybreakBlue-2 #baeOff
+DaybreakBlue-3 #91caff
+DaybreakBlue-4 #69b1ff
+DaybreakBlue-5 #4096ff
+DaybreakBlue-6 #1677f
+DaybreakBlue-7 #0958d9
+DaybreakBlue-8 #003eb3
+DaybreakBlue-9 #002c8c
+DaybreakBlue-10 #001d66
+
+Geek Blue
+GeekBlue-1 #f0f5ff
+GeekBlue-2 #d6e4ff
+GeekBlue-3 #adc6ff
+GeekBlue-4 #85a5ff
+GeekBlue-5 #597ef7
+GeekBlue-6 #2154eb
+GeekBlue-7 #1d39c4
+GeekBlue-8 #10239e
+GeekBlue-9 #061178
+GeekBlue-10 #030852
+
+
+purple-1 #f9f0ff
+purple-2 #efdbff
+purple-3 #d3adf7
+purple-4 #b37feb
+purple-5 #9254de
+purple-6 #722ed1
+purple-7 #531dab
+purple-8 #391085
+purple-9 #22075e
+purple-10 #120338
+
+## Pink
+Pink-1 #fff0f6
+Pink-2 #ffd6e7
+Pink-3 #ffadd2
+Pink-4 #f£85c0
+Pink-5 #£759ab
+Pink-6 #eb2f96
+Pink-7 #c41d7f
+Pink-8 #9e1068
+Pink-g #780650
+Pink-10 #520339
+gray-1 #ffffff
+gray-2 #fafafa
+gray-3 #f5f5f5
+gray-4 #f0f0f0
+gray-5 #d9d9d9
+gray-6 #bfbfbf
+gray-7 #8¢8c8c
+gray-8 #595959
+gray-9 #434343
+gray-10 #262626
+gray-11 #1f1f1f
+gray-12 #141414
+gray-13 #000000

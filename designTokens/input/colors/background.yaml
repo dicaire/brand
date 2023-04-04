@@ -1,0 +1,64 @@
+color:
+  background:
+    base:
+      value: "{color.white.value}"
+      attributes:
+        font: base
+        cssProp: "background-color"
+    alt:
+      value: "{color.blue.4.value}"
+      attributes:
+        font: base
+    disabled:
+      value: "{color.blue.2.value}"
+      attributes:
+        font: base
+    inverse:
+      value: "{color.gray.9.value}"
+      attributes:
+        font: inverse
+    success:
+      value: "{color.green.6.value}"
+      attributes:
+        font: inverse
+    error:
+      value: "{color.red.6.value}"
+      attributes:
+        font: inverse
+    warning:
+      value: "{color.orange.6.value}"
+      attributes:
+        font: inverse
+    info:
+      value: "{color.blue.4.value}"
+      attributes:
+        font: inverse
+    link:
+      value: "{color.blue.6.value}"
+      attributes:
+        font: inverse
+    low-priority:
+      value: "{color.gray.4.value}"
+      attributes:
+        font: inverse
+    button:
+      primary:
+        base:
+          value: "{color.brand.primary.base.value}"
+        disabled:
+          value: "{color.brand.primary.light.value}"
+        active:
+          value: "{color.brand.primary.dark.value}"
+      secondary:
+        base:
+          value: "{color.brand.secondary.base.value}"
+        disabled:
+          value: "{color.brand.secondary.light.value}"
+        active:
+          value: "{color.brand.secondary.dark.value}"
+
+    overlay:
+      light:
+        value: "#FFFFFFCC"
+      dark:
+        value: "#00000044"

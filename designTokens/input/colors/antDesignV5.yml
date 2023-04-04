@@ -1,0 +1,296 @@
+# Source: Ant Design v5 – System-level Color System
+# https://ant.design/
+
+color:
+  antDesign:
+    dustRed:
+      "1":
+        value: "#fff1f0"
+      "2":
+        value: "#ffccc7"
+      '3':
+        value: "#ffa39e"
+      "4":
+        value: "#{f7875"
+      "5":
+        value: "#ff4d4f"
+      "6":
+        value: "#5222d"
+      "7":
+        value: "#cf1322"
+      "8":
+        value: "#a8071a"
+      "9":
+        value: "#820014"
+      "10":
+        value: "#5c0011"
+
+    Volcano:
+      "1":
+        value: "#fff2e8"
+      "2":
+        value: "#ffd8bf"
+      "3":
+        value: "#ffbb96"
+      "4":
+        value: "#f9c6e"
+      "5":
+        value: "#ff7a45"
+      "6":
+        value: "#fa541c"
+      "7":
+        value: "#d4380d"
+      "8":
+        value: "#ad2102"
+      "9":
+        value: "#871400"
+      "10":
+        value: "#610600"
+
+    SunsetOrange:
+      "1":
+        value: "#fff7e6"
+      "2":
+        value: "#ffe7ba"
+      "3":
+        value: "#ffd591"
+      "4":
+        value: "#ffc069"
+      "5":
+        value: "#ffa940"
+      "6":
+        value: "#а8c16"
+      "7":
+        value: "#d46b08"
+      "8":
+        value: "#ad4e00"
+      "9":
+        value: "#873800"
+      "10":
+        value: "#612500"
+
+    CalendulaGold:
+      "1":
+        value: "#iffbe6"
+      "2":
+        value: "#fff1b8"
+      "3":
+        value: "#ife58f"
+      "4":
+        value: "#ifd666"
+      "5":
+        value: "#ffc53d"
+      "6":
+        value: "#Taad14"
+      "7":
+        value: "#48806"
+      "8":
+        value: "#ad6800"
+      "9":
+        value: "#874d00"
+      "10":
+        value: "#613400"
+
+    SunriseYellow:
+      "1":
+        value: "#feffe6"
+      "2":
+        value: "#ffffb8"
+      "3":
+        value: "#fffb8f"
+      "4":
+        value: "#{£566"
+      "5":
+        value: "#ffec3d"
+      "6":
+        value: "#fadb14"
+      "7":
+        value: "#46106"
+      "8":
+        value: "#ad8b00"
+      "9":
+        value: "#876800"
+      "10":
+        value: "#614700"
+
+    Lime:
+      "1":
+        value: "#fcffe6"
+      "2":
+        value: "#f4ffb8"
+      "3":
+        value: "#eaff8f"
+      "4":
+        value: "#d3f261"
+      "5":
+        value: "#bae637"
+      "6":
+        value: "#a0d911"
+      "7":
+        value: "#7cb305"
+      "8":
+        value: "#5b8c00"
+      "9":
+        value: "#3£6600"
+      "10":
+        value: "#254000"
+
+    Polar green:
+      "1":
+        value: "#f6ffed"
+      "2":
+        value: "#d9f7be"
+      "3":
+        value: "#b7eb8f"
+      "4":
+        value: "#95de64"
+      "5":
+        value: "#73d13d"
+      "6":
+        value: "#52c41a"
+      "7":
+        value: "#3890d"
+      "8":
+        value: "#237804"
+      "9":
+        value: "#135200"
+      "10":
+        value: "#092b00"
+
+    Cyan:
+      "1":
+        value: "#e6fffb"
+      "2":
+        value: "#b5f5ec"
+      "3":
+        value: "#87e8de"
+      "4":
+        value: "#5cdbd3"
+      "5":
+        value: "#36cfc9"
+      "6":
+        value: "#13c2c2"
+      "7":
+        value: "#08979c"
+      "8":
+        value: "#006d75"
+      "9":
+        value: "#004741"
+      "10":
+        value: "#e6fffb"
+
+    Daybreak Blue:
+      "1":
+        value: "#e6f4ff"
+      "2":
+        value: "#baeOff"
+      "3":
+        value: "#91caff"
+      "4":
+        value: "#69b1ff"
+      "5":
+        value: "#4096ff"
+      "6":
+        value: "#1677f"
+      "7":
+        value: "#0958d9"
+      "8":
+        value: "#003eb3"
+      "9":
+        value: "#002c8c"
+      "10":
+        value: "#001d66"
+
+    Geek Blue:
+      "1":
+        value: "#f0f5ff"
+      "2":
+        value: "#d6e4ff"
+      "3":
+        value: "#adc6ff"
+      "4":
+        value: "#85a5ff"
+      "5":
+        value: "#597ef7"
+      "6":
+        value: "#2154eb"
+      "7":
+        value: "#1d39c4"
+      "8":
+        value: "#10239e"
+      "9":
+        value: "#061178"
+      "10":
+        value: "#030852"
+
+    Golden Purple:
+      "1":
+        value: "#f9f0ff"
+      "2":
+        value: "#efdbff"
+      "3":
+        value: "#d3adf7"
+      "4":
+        value: "#b37feb"
+      "5":
+        value: "#9254de"
+      "6":
+        value: "#722ed1"
+      "7":
+        value: "#531dab"
+      "8":
+        value: "#391085"
+      "9":
+        value: "#22075e"
+      "10":
+        value: "#120338"
+
+    Magenta:
+      "1":
+        value: "#fff0f6"
+      "2":
+        value: "#ffd6e7"
+      "3":
+        value: "#ffadd2"
+      "4":
+        value: "#f£85c0"
+      "5":
+        value: "#£759ab"
+      "6":
+        value: "#eb2f96"
+      "7":
+        value: "#c41d7f"
+      "8":
+        value: "#9e1068"
+      "9":
+        value: "##780650"
+      "10":
+        value: "#520339"
+
+    NeutralPalette:
+      "1":
+        value: "#ffffff"
+      "2":
+        value: "#fafafa"
+      "3":
+        value: "#f5f5f5"
+      "4":
+        value: "#f0f0f0"
+      "5":
+        value: "#d9d9d9"
+      "6":
+        value: "#bfbfbf"
+      "7":
+        value: "#8¢8c8c"
+      "8":
+        value: "#595959"
+      "9":
+        value: "#434343"
+      "10":
+        value: "#262626"
+      "11":
+        value: "#1f1f1f"
+      "12":
+        value: "#141414"
+      "13":
+        value: "#000000"

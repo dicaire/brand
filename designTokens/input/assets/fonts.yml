@@ -1,0 +1,36 @@
+asset:
+  font:
+    sharpsans:
+      family:
+        value: Sharp Sans
+      formats:
+        value:
+        - woff2
+        - woff
+      display:
+        value: swap
+      descriptors:
+        medium:
+          weight:
+            value: "{size.font.weight.medium.value}"
+        medium-italic:
+          weight:
+            value: "{size.font.weight.medium.value}"
+          style:
+            value: italic
+        semibold:
+          weight:
+            value: "{size.font.weight.semibold.value}"
+        semibold-italic:
+          weight:
+            value: "{size.font.weight.semibold.value}"
+          style:
+            value: italic
+        bold:
+          weight:
+            value: "{size.font.weight.bold.value}"
+        bold-italic:
+          weight:
+            value: "{size.font.weight.bold.value}"
+          style:
+            value: italic

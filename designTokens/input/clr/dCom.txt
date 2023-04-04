@@ -1,0 +1,13 @@
+#F5222D Red
+#Fa541C Volcano
+#Fa8C16 Orange
+#Faad14 Gold
+#Fadb14 Yellow
+#A0D911 Lime
+#52C41A Green
+#13C2C2 Cyan
+#1677Ff Blue
+#2F54Eb Geekblue
+#722Ed1 Purple
+#Eb2F96 Magenta
+#666666 Grey
